@@ -1,0 +1,9 @@
+# Project exclude paths
+/monitor/admin/target/
+/monitor/eureka-sever/target/
+/monitor/hystrixdashboard/target/
+/monitor/zipkin/target/
+/services/api-gateway/target/
+/services/comment-srv/target/
+/services/house-srv/target/
+/services/user-service/target/
